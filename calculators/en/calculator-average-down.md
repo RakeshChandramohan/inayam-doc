@@ -117,9 +117,4 @@ Yes, there can be tax implications depending on your country’s tax laws regard
 The Average Down Investment Calculator is a valuable tool for investors looking to optimize their stock purchases during market downturns. By understanding the mechanics of averaging down and using the calculator effectively, investors can make informed decisions to improve their investment positions. Always remember to conduct thorough research and consider the broader market context before making additional investments.
 
 ---
-#### AI-Generated Content Disclaimer
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
-
-**Note**: Currently, the site is under development and will be validated and updated soon (27-Sep-2024).

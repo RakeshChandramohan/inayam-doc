@@ -7,7 +7,7 @@ A calculadora de data de hoje é uma ferramenta on-line fácil de usar, projetad
 Embora não exista uma fórmula complexa para calcular a data de hoje, a ferramenta utiliza o relógio interno do sistema para recuperar a data atual.Isso garante que você receba informações precisas sempre que as usa.
 
 ### Exemplo de cálculo
-Por exemplo, se hoje for 15 de março de 2024, simplesmente acessar a calculadora de data de hoje exibirá esta data instantaneamente.Não há necessidade de cálculos ou ajustes manuais.
+Por exemplo, se hoje for 15 de março de 2026, simplesmente acessar a calculadora de data de hoje exibirá esta data instantaneamente.Não há necessidade de cálculos ou ajustes manuais.
 
 ### Uso da fórmula
 A calculadora de data de hoje opera perfeitamente em segundo plano, buscando a data nas configurações do sistema do seu dispositivo.Isso significa que você pode confiar nele para obter informações precisas e atualizadas sem nenhum aborrecimento.

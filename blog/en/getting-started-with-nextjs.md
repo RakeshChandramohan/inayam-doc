@@ -1,4 +1,4 @@
-# Getting Started with Next.js: A Friendly Introduction
+## Getting Started with Next.js: A Friendly Introduction
 
 If you’ve been dabbling in web development lately, there’s a good chance you’ve come across **Next.js**. It’s a popular React framework that has been making waves for its simplicity and powerful features. But if you’re wondering *what exactly makes Next.js worth your time* — especially if you’re already familiar with React — you’re in the right place. I’m going to walk you through what Next.js is, why it matters, and how you can get started with it without feeling overwhelmed.
 

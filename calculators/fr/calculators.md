@@ -1,4 +1,4 @@
-# Calculatrice INAYAM - outil financier multi-utilité
+## Calculatrice INAYAM - outil financier multi-utilité
 
 ## Introduction
 Le ** Calculator Inayam ** est un outil financier polyvalent conçu pour simplifier votre planification financière.Que vous cherchiez à calculer les paiements mensuels, les économies, les investissements ou plus, cette calculatrice fournit une interface facile à utiliser qui s'adresse à un large public.Avec ses fonctionnalités complètes, les utilisateurs peuvent obtenir des informations précieuses sur leur parcours financier, en prenant des décisions éclairées en toute confiance.

@@ -1,13 +1,13 @@
-# ITR Filing Due Dates for Financial Year 2024-2025 (Assessment Year 2025-2026)
+## ITR Filing Due Dates for Financial Year 2024-2026 (Assessment Year 2026-2026)
 
-Tax season is always a bit daunting, isn’t it? Especially when you’re juggling life, work, and the endless paperwork that comes with filing your Income Tax Return (ITR). To make things a little easier, here’s a straightforward rundown of the **ITR filing due dates for FY 2024-2025** (which corresponds to **AY 2025-2026**). Keeping these dates in mind can help you avoid last-minute rush and penalties.
+Tax season is always a bit daunting, isn’t it? Especially when you’re juggling life, work, and the endless paperwork that comes with filing your Income Tax Return (ITR). To make things a little easier, here’s a straightforward rundown of the **ITR filing due dates for FY 2024-2026** (which corresponds to **AY 2026-2026**). Keeping these dates in mind can help you avoid last-minute rush and penalties.
 
 ---
- ![ITR Filing Due Dates for Financial Year 2024-2025 (Assessment Year 2025-2026)](https://i.ibb.co/jP0P8Hkc/itr-date.png)
+ ![ITR Filing Due Dates for Financial Year 2024-2026 (Assessment Year 2026-2026)](https://i.ibb.co/jP0P8Hkc/itr-date.png)
 
 ## Understanding the Basics: What Are ITR Filing Due Dates?
 
-Before diving into the dates, a quick refresher: The financial year (FY) runs from **April 1st to March 31st**. For FY 2024-2025, that means April 1, 2024, to March 31, 2025. The assessment year (AY), the year after the financial year, is when you actually file your return, explaining the income earned in the FY.
+Before diving into the dates, a quick refresher: The financial year (FY) runs from **April 1st to March 31st**. For FY 2024-2026, that means April 1, 2024, to March 31, 2026. The assessment year (AY), the year after the financial year, is when you actually file your return, explaining the income earned in the FY.
 
 ---
 
@@ -15,10 +15,10 @@ Before diving into the dates, a quick refresher: The financial year (FY) runs fr
 
 | Category of Taxpayer                             | Due Date for Filing ITR                      | Penalty/Consequence                     |
 |------------------------------------------------|---------------------------------------------|----------------------------------------|
-| **Individual/HUF (not requiring audit)**       | **July 31, 2025**                            | Late filing fees and interest may apply|
-| **Businesses and professionals (requiring audit)** | **September 30, 2025**                        | Late fees plus increased scrutiny       |
-| **Transfer Pricing cases & International transactions** | **November 30, 2025**                        | Late fees and possible penalties        |
-| **Companies whose accounts are to be audited** | **October 31, 2025**                         | Penalties, potential scrutiny            |
+| **Individual/HUF (not requiring audit)**       | **July 31, 2026**                            | Late filing fees and interest may apply|
+| **Businesses and professionals (requiring audit)** | **September 30, 2026**                        | Late fees plus increased scrutiny       |
+| **Transfer Pricing cases & International transactions** | **November 30, 2026**                        | Late fees and possible penalties        |
+| **Companies whose accounts are to be audited** | **October 31, 2026**                         | Penalties, potential scrutiny            |
 | **Revised ITR filing**                          | Within **one year from the end of the relevant AY**, i.e., by **March 31, 2027** | Only allowed if original return was filed on time |
 
 ### Quick Tip:
@@ -69,9 +69,9 @@ Honestly, I always try to file my return as soon as all my proofs and statements
 
 Remember, the **key to smooth tax filing** is preparation and punctuality. Keep your documents handy and mark those calendars with the due dates:
 
-- **July 31, 2025** – Standard return filing date for most individuals
-- **September 30, 2025** – Audit cases and certain taxpayers
-- **November 30, 2025** – Transfer pricing cases and international transactions
+- **July 31, 2026** – Standard return filing date for most individuals
+- **September 30, 2026** – Audit cases and certain taxpayers
+- **November 30, 2026** – Transfer pricing cases and international transactions
 
 Missing these can be costly, so mark your calendars and maybe set reminders on your phone.
 

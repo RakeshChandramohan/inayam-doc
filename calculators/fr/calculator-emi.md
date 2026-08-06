@@ -63,13 +63,4 @@ Une calculatrice EMI vous aide à déterminer rapidement le montant mensuel EMI 
 
 #### 10. ** Y a-t-il des frais pour les EMI prépayés? **
 Certains prêteurs facturent des frais de remboursement anticipé, en particulier pour les prêts à taux fixe.Cependant, de nombreux prêts à taux flottant ne viennent pas sans pénalité de remboursement anticipé.
-
----
-### Avertissement de contenu généré par AI
-
-Ce contenu était ** généré par AI-** en utilisant la technologie de traitement du langage naturel.Bien que des efforts aient été faits pour assurer la précision et la pertinence des informations, elles peuvent ne pas être parfaites.Les utilisateurs sont encouragés à vérifier les informations dans de manière dépendante le cas échéant.
-
-** Remarque **: Le contenu généré par AI doit être utilisé comme un outil de soutien, et non un substitut aux conseils professionnels.
-
-
-** Remarque **: Le site récent en cours de développement sera validé et mis à jour bientôt (27-Sep-2024)
+ 

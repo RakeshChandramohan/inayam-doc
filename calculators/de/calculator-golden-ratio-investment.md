@@ -1,4 +1,4 @@
-# Golden Ratio Investment Calculator
+## Golden Ratio Investment Calculator
 
 ## Übersicht
 

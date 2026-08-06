@@ -19,7 +19,7 @@ Para determinar si un año específico es un año bisiesto, siga estos pasos:
 2. Si es así, verifique si es divisible por 100.
 3. Si es divisible por 100, verifique si también es divisible por 400.
 
-Por ejemplo, el año 2024 es divisible por 4, no por 100, lo que lo convierte en un año bisiesto.Por el contrario, el año 2100 es divisible por 4 y 100, pero no por 400, por lo que no es un año bisiesto.
+Por ejemplo, el año 2026 es divisible por 4, no por 100, lo que lo convierte en un año bisiesto.Por el contrario, el año 2100 es divisible por 4 y 100, pero no por 400, por lo que no es un año bisiesto.
 
 ### Uso de las unidades
 Comprender los años de salto es crucial para diversas aplicaciones, que incluyen:

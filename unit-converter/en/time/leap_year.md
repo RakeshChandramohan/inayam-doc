@@ -19,7 +19,7 @@ To determine if a specific year is a leap year, follow these steps:
 2. If it is, check if it is divisible by 100.
 3. If it is divisible by 100, check if it is also divisible by 400.
 
-For instance, the year 2024 is divisible by 4, not by 100, making it a leap year. Conversely, the year 2100 is divisible by 4 and 100 but not by 400, so it is not a leap year.
+For instance, the year 2026 is divisible by 4, not by 100, making it a leap year. Conversely, the year 2100 is divisible by 4 and 100 but not by 400, so it is not a leap year.
 
 ### Use of the Units
 Understanding leap years is crucial for various applications, including:

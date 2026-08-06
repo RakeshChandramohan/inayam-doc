@@ -1,4 +1,4 @@
-# BYD Overtakes Tesla: The End of Tesla's Reign or a New Era for EVs?
+## BYD Overtakes Tesla: The End of Tesla's Reign or a New Era for EVs?
 
 ---
 

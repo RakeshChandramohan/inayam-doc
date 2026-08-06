@@ -7,8 +7,8 @@ Der heutige Datums- und Zeitrechner ist ein benutzerfreundliches Online-Tool, da
 Obwohl es keine Formel im traditionellen Sinne für die Berechnung des aktuellen Datums und der aktuellen Uhrzeit gibt, verwendet das Tool die Systemuhr Ihres Geräts, um die genauesten verfügbaren Informationen abzurufen und anzuzeigen.
 
 ### Beispielberechnung
-Wenn Sie beispielsweise am 15. März 2024 um 15.45 Uhr auf das Tool zugreifen, wird der heutige Datum und der Zeitrechner angezeigt:
-- Aktuelles Datum: 15. März 2024
+Wenn Sie beispielsweise am 15. März 2026 um 15.45 Uhr auf das Tool zugreifen, wird der heutige Datum und der Zeitrechner angezeigt:
+- Aktuelles Datum: 15. März 2026
 - Aktuelle Zeit: 15:45 Uhr
 
 ### Verwendung der Formel

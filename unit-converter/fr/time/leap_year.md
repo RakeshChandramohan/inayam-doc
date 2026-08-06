@@ -19,7 +19,7 @@ Pour déterminer si une année spécifique est une année de saut, suivez ces é
 2. Si c'est le cas, vérifiez s'il est divisible par 100.
 3. S'il est divisible par 100, vérifiez s'il est également divisible par 400.
 
-Par exemple, l'année 2024 est divisible par 4, pas par 100, ce qui en fait une année de saut.À l'inverse, l'année 2100 est divisible par 4 et 100 mais pas par 400, ce n'est donc pas une année de saut.
+Par exemple, l'année 2026 est divisible par 4, pas par 100, ce qui en fait une année de saut.À l'inverse, l'année 2100 est divisible par 4 et 100 mais pas par 400, ce n'est donc pas une année de saut.
 
 ### Utilisation des unités
 Comprendre les années de saut est cruciale pour diverses applications, notamment:

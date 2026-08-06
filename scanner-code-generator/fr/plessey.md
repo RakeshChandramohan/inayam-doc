@@ -56,6 +56,6 @@ Les codes à barres Plessey peuvent ne pas être compatibles avec tous les scann
 ** 5.Y a-t-il un coût associé à l'utilisation du générateur de code-barres Plessey? **
 Non, le générateur de codes à barres Plessey est libre à utiliser, vous permettant de générer des codes-barres sans frais.
 
-# ## Commencez à utiliser l'outil maintenant!
+## ## Commencez à utiliser l'outil maintenant!
 
 Améliorez vos opérations de vente au détail en générant des codes à barres Plessey sans effort.** Calculez vos résultats instantanément ** et rationalisez votre processus d'identification de produit dès aujourd'hui!Visitez le [Plessey Barcode Generator] (https://www.inayam.co/barcode/plessey) pour commencer.

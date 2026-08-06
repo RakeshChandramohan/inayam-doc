@@ -1,4 +1,4 @@
-# Generador de gancho de anuncios de Facebook
+## Generador de gancho de anuncios de Facebook
 
 ## Introducción
 ¡Bienvenido al ** Facebook Ad Hook Generator ** de Inayam AI!Esta poderosa herramienta está diseñada para ayudar a los especialistas en marketing y a los dueños de negocios a crear ganchos pegadizos para sus anuncios de Facebook que llaman la atención e involucran a su público objetivo.Ya sea que esté lanzando un nuevo producto o promocionando un servicio existente, un gancho convincente puede marcar la diferencia en su éxito publicitario.

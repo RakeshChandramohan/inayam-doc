@@ -1,4 +1,4 @@
-# TypeScript Best Practices in 2025
+## TypeScript Best Practices in 2026
 
 Learn the latest TypeScript patterns and practices to write cleaner code.
 

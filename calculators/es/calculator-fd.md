@@ -65,12 +65,4 @@ Sí, muchos bancos ofrecen préstamos contra depósitos fijos, lo que le permite
 
 ### 10. ** ¿Cómo calculo la cantidad de vencimiento para un FD? **
 Puede usar la fórmula del monto del vencimiento FD proporcionado anteriormente para calcular el monto del vencimiento en función del principal, la tasa de interés y la tenencia.
-
----
-## Descargo de responsabilidad de contenido generado por AI
-
-Este contenido fue ** generado por IA ** utilizando tecnología de procesamiento del lenguaje natural.Si bien se han realizado esfuerzos para garantizar la precisión y relevancia de la información, puede no ser perfecto.Se alienta a los usuarios a verificar la información de forma independiente cuando corresponda.
-
-** Nota **: El contenido generado por IA debe usarse como una herramienta de apoyo, no un sustituto de asesoramiento profesional.
-
-** Nota **: Actualmente, el sitio está en desarrollo y será validado y actualizado pronto (27-SEP-2024).
+ 

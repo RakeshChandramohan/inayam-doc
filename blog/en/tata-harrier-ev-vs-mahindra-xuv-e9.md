@@ -1,4 +1,4 @@
-# Tata Harrier EV vs. Mahindra XUV.e9: The Ultimate Electric SUV Showdown
+## Tata Harrier EV vs. Mahindra XUV.e9: The Ultimate Electric SUV Showdown
 
 The Indian car market is buzzing, isn't it? It feels like every time I open a news app, there's another exciting electric vehicle (EV) announcement. For the longest time, the EV conversation was dominated by smaller cars, perfect for zipping through city traffic. But now, the game is changing. The heavyweights are entering the ring, and I’m talking about big, brawny, family-friendly electric SUVs.
 

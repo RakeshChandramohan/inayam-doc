@@ -1,4 +1,4 @@
-# Calculadora de inversión de relación dorada
+## Calculadora de inversión de relación dorada
 
 ## Descripción general
 

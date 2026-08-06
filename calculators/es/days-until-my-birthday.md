@@ -9,13 +9,13 @@ Para calcular los días restantes hasta su cumpleaños, la fórmula es sencilla:
 ** Días hasta el cumpleaños = Fecha de cumpleaños - Fecha actual **
 
 ### Cálculo de ejemplo
-Por ejemplo, si su cumpleaños es el 15 de julio de 2024, y hoy es el 1 de marzo de 2024, el cálculo sería:
+Por ejemplo, si su cumpleaños es el 15 de julio de 2026, y hoy es el 1 de marzo de 2026, el cálculo sería:
 
-- ** Fecha de cumpleaños **: 15 de julio de 2024
-- ** Fecha actual **: 1 de marzo de 2024
+- ** Fecha de cumpleaños **: 15 de julio de 2026
+- ** Fecha actual **: 1 de marzo de 2026
 
 Usando la fórmula:
-- Días hasta el cumpleaños = 15 de julio de 2024 - 1 de marzo de 2024 = 136 días
+- Días hasta el cumpleaños = 15 de julio de 2026 - 1 de marzo de 2026 = 136 días
 
 ### Uso de la fórmula
 Esta fórmula le permite rastrear fácilmente cuántos días quedan hasta su cumpleaños.Al ingresar la fecha de su cumpleaños y la fecha actual en nuestra calculadora de cuenta regresiva de cumpleaños, puede ver instantáneamente la cuenta regresiva, por lo que es una forma divertida de generar anticipación para su día especial.
@@ -41,7 +41,7 @@ Para usar la calculadora de cuenta regresiva de cumpleaños, siga estos simples 
 - La calculadora determina la cantidad de días hasta su cumpleaños restando la fecha actual de la fecha de su cumpleaños.
 
 2. ** ¿Puedo usar esta herramienta para cumpleaños en diferentes años? **
-- Sí, puede calcular la cuenta regresiva para cualquier cumpleaños próximo, ya sea en 2024, 2025 o más allá.
+- Sí, puede calcular la cuenta regresiva para cualquier cumpleaños próximo, ya sea en 2026, 2026 o más allá.
 
 3. ** ¿Qué pasa si ingreso a la fecha de cumpleaños incorrecta? **
 - Puede volver a ingresar fácilmente la fecha de su cumpleaños y recalcular la cuenta regresiva.

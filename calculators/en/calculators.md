@@ -1,4 +1,4 @@
-# Inayam Calculator - Multi-Utility Financial Tool
+## Inayam Calculator - Multi-Utility Financial Tool
 
 ## Introduction
 The **Inayam Calculator** is a versatile financial tool designed to simplify your financial planning. Whether you're looking to calculate monthly payments, savings, investments, or more, this calculator provides an easy-to-use interface that caters to a wide audience. With its comprehensive features, users can gain valuable insights into their financial journey, making informed decisions with confidence.

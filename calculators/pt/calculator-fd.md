@@ -65,12 +65,4 @@ Sim, muitos bancos oferecem empréstimos contra depósitos fixos, permitindo emp
 
 ### 10. ** Como calcular a quantidade de vencimento para um FD? **
 Você pode usar a fórmula da quantidade de maturidade do FD fornecida acima para calcular o valor da maturidade com base no principal, taxa de juros e posse.
-
----
-Isenção de conteúdo### ai-generated
-
-Esse conteúdo foi gerado ** ** usando a tecnologia de processamento de linguagem natural.Embora tenham sido feitos esforços para garantir a precisão e a relevância das informações, elas podem não ser perfeitas.Os usuários são incentivados a verificar as informações de forma independente, quando aplicável.
-
-** Nota **: O conteúdo gerado pela AI deve ser usado como uma ferramenta de suporte, não um substituto para conselhos profissionais.
-
-** NOTA **: Atualmente, o site está em desenvolvimento e será validado e atualizado em breve (27-Sep-2024).
+ 

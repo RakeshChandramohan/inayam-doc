@@ -9,13 +9,13 @@ Pour calculer les jours restants jusqu'à votre anniversaire, la formule est sim
 ** jours jusqu'à l'anniversaire = date d'anniversaire - date actuelle **
 
 ### Exemple de calcul
-Par exemple, si votre anniversaire est le 15 juillet 2024 et aujourd'hui est le 1er mars 2024, le calcul serait:
+Par exemple, si votre anniversaire est le 15 juillet 2026 et aujourd'hui est le 1er mars 2026, le calcul serait:
 
-- ** Date d'anniversaire **: 15 juillet 2024
-- ** Date actuelle **: 1er mars 2024
+- ** Date d'anniversaire **: 15 juillet 2026
+- ** Date actuelle **: 1er mars 2026
 
 Utilisation de la formule:
-- Days jusqu'à l'anniversaire = 15 juillet 2024 - 1 mars 2024 = 136 jours
+- Days jusqu'à l'anniversaire = 15 juillet 2026 - 1 mars 2026 = 136 jours
 
 ### Utilisation de la formule
 Cette formule vous permet de suivre facilement le nombre de jours jusqu'à votre anniversaire.En entrant votre date d'anniversaire et la date actuelle dans notre calculatrice de compte à rebours d'anniversaire, vous pouvez instantanément voir le compte à rebours, ce qui en fait un moyen amusant de construire l'anticipation pour votre journée spéciale.
@@ -41,7 +41,7 @@ Pour utiliser la calculatrice du compte à rebours de l'anniversaire, suivez ces
 - La calculatrice détermine le nombre de jours jusqu'à votre anniversaire en soustrayant la date actuelle de votre date d'anniversaire.
 
 2. ** Puis-je utiliser cet outil pour les anniversaires dans différentes années? **
-- Oui, vous pouvez calculer le compte à rebours pour tout prochain anniversaire, que ce soit en 2024, 2025 ou au-delà.
+- Oui, vous pouvez calculer le compte à rebours pour tout prochain anniversaire, que ce soit en 2026, 2026 ou au-delà.
 
 3. ** Et si j'entre dans la mauvaise date d'anniversaire? **
 - Vous pouvez facilement réintégrer votre date d'anniversaire et recalculer le compte à rebours.

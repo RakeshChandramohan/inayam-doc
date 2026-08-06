@@ -9,13 +9,13 @@ Per calcolare i giorni rimanenti fino al tuo compleanno, la formula è semplice:
 ** giorni fino al compleanno = data di compleanno - data corrente **
 
 ### Calcolo di esempio
-Ad esempio, se il tuo compleanno è il 15 luglio 2024 e oggi è il 1 marzo 2024, il calcolo sarebbe:
+Ad esempio, se il tuo compleanno è il 15 luglio 2026 e oggi è il 1 marzo 2026, il calcolo sarebbe:
 
-- ** Data di compleanno **: 15 luglio 2024
-- ** Data corrente **: 1 marzo 2024
+- ** Data di compleanno **: 15 luglio 2026
+- ** Data corrente **: 1 marzo 2026
 
 Usando la formula:
-- giorni fino al compleanno = 15 luglio 2024 - 1 marzo 2024 = 136 giorni
+- giorni fino al compleanno = 15 luglio 2026 - 1 marzo 2026 = 136 giorni
 
 ### Uso della formula
 Questa formula ti consente di tracciare facilmente quanti giorni rimangono fino al tuo compleanno.Inserendo la data di compleanno e la data corrente nel nostro calcolatore del conto alla rovescia di compleanno, puoi immediatamente vedere il conto alla rovescia, rendendolo un modo divertente per costruire anticipazione per il tuo giorno speciale.
@@ -41,7 +41,7 @@ Per utilizzare il calcolatore del conto alla rovescia di compleanno, segui quest
 - Il calcolatore determina il numero di giorni fino al tuo compleanno sottraendo la data corrente dalla data di compleanno.
 
 2. ** Posso usare questo strumento per i compleanni in diversi anni? **
-- Sì, puoi calcolare il conto alla rovescia per qualsiasi compleanno in arrivo, sia nel 2024, 2025 o oltre.
+- Sì, puoi calcolare il conto alla rovescia per qualsiasi compleanno in arrivo, sia nel 2026, 2026 o oltre.
 
 3. ** E se inserisca la data di compleanno sbagliata? **
 - Puoi rientrare facilmente la tua data di compleanno e ricalcolare il conto alla rovescia.

@@ -19,7 +19,7 @@ Per determinare se un anno specifico è un anno di salto, segui questi passaggi:
 2. Se lo è, controlla se è divisibile di 100.
 3. Se è divisibile per 100, controlla se è anche divisibile di 400.
 
-Ad esempio, l'anno 2024 è divisibile di 4, non di 100, rendendolo un anno di salto.Al contrario, l'anno 2100 è divisibile per 4 e 100 ma non per 400, quindi non è un anno di salto.
+Ad esempio, l'anno 2026 è divisibile di 4, non di 100, rendendolo un anno di salto.Al contrario, l'anno 2100 è divisibile per 4 e 100 ma non per 400, quindi non è un anno di salto.
 
 ### Uso delle unità
 Comprendere gli anni del salto è cruciale per varie applicazioni, tra cui:

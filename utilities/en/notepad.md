@@ -1,4 +1,4 @@
-# 📝 Advanced Notepad Editor Tool
+## 📝 Advanced Notepad Editor Tool
 
 A feature-rich, multi-tab text editor with autosave, undo/redo, search &
 replace, sidebar file explorer, and **persistent LocalStorage support**.
@@ -147,4 +147,4 @@ When the Notepad loads: 1. It fetches `notepad_files` from LocalStorage\
 
 ------------------------------------------------------------------------
 
-*Last updated: 2025*
+*Last updated: 2026*

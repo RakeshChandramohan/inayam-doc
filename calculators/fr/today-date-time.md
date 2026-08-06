@@ -7,8 +7,8 @@ Formule ### pour calculer la date et l'heure actuelles
 Bien qu'il n'y ait pas de formule au sens traditionnel pour calculer la date et l'heure actuelles, l'outil utilise l'horloge système de votre appareil pour récupérer et afficher les informations les plus précises disponibles.
 
 ### Exemple de calcul
-Par exemple, si vous accédez à l'outil à 15 h 45 le 15 mars 2024, la calculatrice de date et d'heure à affiche:
-- Date actuelle: 15 mars 2024
+Par exemple, si vous accédez à l'outil à 15 h 45 le 15 mars 2026, la calculatrice de date et d'heure à affiche:
+- Date actuelle: 15 mars 2026
 - Heure actuelle: 15h45
 
 ### Utilisation de la formule

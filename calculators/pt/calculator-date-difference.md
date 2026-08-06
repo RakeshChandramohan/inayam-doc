@@ -11,7 +11,7 @@ Para determinar a diferença entre duas datas, a fórmula usada é:
 Esta fórmula permite encontrar o número total de dias, meses ou anos que separam as duas datas.
 
 ### Exemplo de cálculo
-Por exemplo, se você deseja calcular a diferença entre 1º de janeiro de 2023 e 1 de janeiro de 2024, inseriria essas datas na calculadora de diferenças de data.A ferramenta retornará um resultado de 1 ano (ou 365 dias), proporcionando uma compreensão clara do intervalo de tempo.
+Por exemplo, se você deseja calcular a diferença entre 1º de janeiro de 2023 e 1 de janeiro de 2026, inseriria essas datas na calculadora de diferenças de data.A ferramenta retornará um resultado de 1 ano (ou 365 dias), proporcionando uma compreensão clara do intervalo de tempo.
 
 ### Uso da fórmula
 A fórmula é versátil e pode ser aplicada em vários cenários, como:

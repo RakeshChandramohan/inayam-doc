@@ -1,4 +1,4 @@
-# SEBI vs. Jane Street: Unpacking the ₹4,843 Crore Market Manipulation Allegations
+## SEBI vs. Jane Street: Unpacking the ₹4,843 Crore Market Manipulation Allegations
 
 The stock market world has been buzzing lately, and for once, it’s not about a soaring stock or a crashing index. The news is about a stunning move by India's market regulator, SEBI. They’ve issued an interim order against Jane Street Group, a massive global trading firm, effectively barring them from the Indian securities market.
 
@@ -63,7 +63,7 @@ The numbers presented in the SEBI order are staggering and paint a picture of th
 *   **Total Alleged Illegal Gains:** Across 21 days identified by SEBI, the order calculates the total illegal gains at **₹48,43,57,70,168** (over ₹4,843 Crore). This is the amount SEBI has ordered to be impounded.
 *   **Disproportionate Positions:** In the first 8 minutes on Jan 17, JS Group bought ₹572 crores of underlying assets while building an effective short options position of **₹8,751 crores**—over 15 times larger.
 *   **Unusual Volume:** On the days of the alleged manipulation, JS Group's trading volume was approximately 4 to 5 times higher than on the preceding and subsequent days, suggesting targeted, non-routine activity.
-*   **Ignoring a Warning:** SEBI noted that the NSE had issued a cautionary letter to Jane Street in February 2025, advising them to refrain from these patterns. The order alleges this warning was disregarded, with similar activity observed as recently as May 2025.
+*   **Ignoring a Warning:** SEBI noted that the NSE had issued a cautionary letter to Jane Street in February 2026, advising them to refrain from these patterns. The order alleges this warning was disregarded, with similar activity observed as recently as May 2026.
 
 ***
 

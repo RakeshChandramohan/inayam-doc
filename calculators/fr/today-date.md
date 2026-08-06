@@ -7,7 +7,7 @@ Formule ### pour calculer la date d'aujourd'hui
 Bien qu'il n'y ait pas de formule complexe pour calculer la date d'aujourd'hui, l'outil utilise l'horloge interne du système pour récupérer la date actuelle.Cela garantit que vous recevez des informations précises chaque fois que vous les utilisez.
 
 ### Exemple de calcul
-Par exemple, si aujourd'hui est le 15 mars 2024, le simple fait de l'accès à la calculatrice de date aujourd'hui affichera cette date instantanément.Il n’est pas nécessaire de calculs manuels ou d’ajustements.
+Par exemple, si aujourd'hui est le 15 mars 2026, le simple fait de l'accès à la calculatrice de date aujourd'hui affichera cette date instantanément.Il n’est pas nécessaire de calculs manuels ou d’ajustements.
 
 ### Utilisation de la formule
 La calculatrice de date d'aujourd'hui fonctionne de manière transparente en arrière-plan, récupérant la date des paramètres système de votre appareil.Cela signifie que vous pouvez compter sur celui-ci pour des informations précises et à jour sans tracas.

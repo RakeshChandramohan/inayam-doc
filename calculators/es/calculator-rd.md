@@ -65,12 +65,4 @@ Los RD ofrecen tasas de interés más altas en comparación con las cuentas de a
 
 #### 10. ** ¿Cómo calculo la cantidad de vencimiento para un RD? **
 Puede usar la fórmula del monto de vencimiento RD proporcionado anteriormente para calcular el monto del vencimiento en función de su depósito mensual, tasa de interés y tenencia.
-
----
-### Descargo de responsabilidad de contenido generado por AI
-
-Este contenido fue ** generado por IA ** utilizando tecnología de procesamiento del lenguaje natural.Si bien se han realizado esfuerzos para garantizar la precisión y relevancia de la información, puede no ser perfecto.Se alienta a los usuarios a verificar la información de forma independiente cuando corresponda.
-
-** Nota **: El contenido generado por IA debe usarse como una herramienta de apoyo, no un sustituto de asesoramiento profesional.
-
-** Nota **: Curre Ntly, el sitio está en desarrollo y será validado y actualizado pronto (27-SEP-2024).
+ 

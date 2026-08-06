@@ -7,8 +7,8 @@ The Today Date & Time Calculator is a user-friendly online tool designed to prov
 While there isn't a formula in the traditional sense for calculating the current date and time, the tool utilizes the system clock of your device to retrieve and display the most accurate information available. 
 
 ### Example Calculation
-For instance, if you access the tool at 3:45 PM on March 15, 2024, the Today Date & Time Calculator will display:
-- Current Date: March 15, 2024
+For instance, if you access the tool at 3:45 PM on March 15, 2026, the Today Date & Time Calculator will display:
+- Current Date: March 15, 2026
 - Current Time: 3:45 PM
 
 ### Use of the Formula

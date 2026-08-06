@@ -1,4 +1,4 @@
-# Las mejores prácticas mecanografiadas en 2025
+## Las mejores prácticas mecanografiadas en 2026
 
 Aprenda los últimos patrones y prácticas de TypeScript para escribir código más limpio.
 

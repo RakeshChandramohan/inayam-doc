@@ -101,12 +101,4 @@ La regla de 72 es principalmente para estimar el crecimiento de la inversión, p
 La regla de la calculadora de duplicación 72 es una herramienta invaluable para los inversores que buscan comprender el impacto del interés compuesto en sus inversiones.Al proporcionar estimaciones rápidas de cuánto tiempo tardará en las inversiones en el doble, permite a los inversores tomar decisiones financieras informadas y establecer expectativas de crecimiento realistas.
 
 Los inversores deben recordar que si bien la regla de 72 ofrece ideas útiles, una investigación integral y una sólida comprensión de las condiciones del mercado son esenciales para una inversión exitosa.
-
----
-
-###### Descargo de responsabilidad de contenido generado por AI
-Este contenido fue ** generado por IA ** utilizando tecnología de procesamiento del lenguaje natural.Si bien se han realizado esfuerzos para garantizar la precisión y relevancia de la información, puede no ser perfecto.Se alienta a los usuarios a verificar la información de forma independiente cuando corresponda.
-
-** Nota **: El contenido generado por IA debe usarse como una herramienta de apoyo, no un sustituto de asesoramiento profesional.
-
-** Nota **: Actualmente, el sitio está en desarrollo y será validado y actualizado pronto (27-SEP-2024).
+ 

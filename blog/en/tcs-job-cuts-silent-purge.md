@@ -1,4 +1,4 @@
-# The Silent Purge: Why the TCS Job Cuts Are More Than Just Layoffs
+## The Silent Purge: Why the TCS Job Cuts Are More Than Just Layoffs
 
 I remember the day my cousin got his offer letter from Tata Consultancy Services (TCS). It was over a decade ago. It wasn't just a job offer; it was a golden ticket. In our middle-class neighborhood, that blue envelope was a symbol. It meant stability. It meant a home loan, a new car, a secure future. It meant his parents could finally stop worrying.
 

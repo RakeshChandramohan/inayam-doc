@@ -1,4 +1,4 @@
-# JSON to CSV Converter Tool
+## JSON to CSV Converter Tool
 
 A powerful, feature-rich tool for converting JSON data to CSV format with advanced customization options and data analysis capabilities.
 
@@ -233,7 +233,3 @@ Automatically detects and displays:
 ### Support
 
 For technical support or feature requests, please contact our support team or visit our documentation portal.
-
----
-
-*Last updated: 2024*

@@ -1,4 +1,4 @@
-# Les meilleures pratiques de typeScript en 2025
+## Les meilleures pratiques de typeScript en 2026
 
 Apprenez les derniers modèles et pratiques TypeScript pour écrire du code de nettoyage.
 

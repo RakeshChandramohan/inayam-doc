@@ -97,10 +97,7 @@ In loans using simple interest, if you repay the loan earlier, the interest amou
 In simple interest loans, EMIs are calculated by dividing the total of the principal and interest evenly over the loan tenure. This ensures that each EMI consists of both a portion of the principal and the interest accrued.
 
 ---
-### AI-Generated Content Disclaimer
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
 
-**Note**:  04-Oct-2024 : Currently, the site is under development and will be validated and updated soon
+

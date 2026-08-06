@@ -1,4 +1,4 @@
-# Best Practices der Typekript im Jahr 2025
+## Best Practices der Typekript im Jahr 2026
 
 Erfahren Sie die neuesten Typenschriftenmuster und -praktiken, um saubereren Code zu schreiben.
 

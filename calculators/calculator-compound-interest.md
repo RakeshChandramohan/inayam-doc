@@ -98,12 +98,6 @@ Withdrawing money early from an account where interest compounds may reduce the 
 
 #### 10. **What is the best frequency for compounding interest?**
 The higher the frequency of compounding (such as monthly or daily), the better, as this leads to more frequent interest being added to the principal. However, the exact impact depends on the terms of the investment or loan.
+ 
 
----
-### AI-Generated Content Disclaimer
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
-
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
-
-**Note**:  04-Oct-2024 : Currently, the site is under development and will be validated and updated soon

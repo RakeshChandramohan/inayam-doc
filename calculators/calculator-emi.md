@@ -66,11 +66,4 @@ An EMI calculator helps you quickly determine the monthly EMI amount for a loan,
 Some lenders charge a prepayment fee, especially for fixed-rate loans. However, many floating-rate loans come with no prepayment penalty.
 
 ---
-### AI-Generated Content Disclaimer
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
-
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
-
-
-**Note**: Curently site under development will be validated and Updated soon (27-Sep-2024)

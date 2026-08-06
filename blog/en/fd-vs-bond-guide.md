@@ -1,11 +1,11 @@
-# FD vs Bond: Choosing the Right Investment for You
+## FD vs Bond: Choosing the Right Investment for You
 
 Investing your hard-earned money wisely is both an art and a science. You want something safe yet rewarding, something reliable but not boring. Fixed Deposits (FDs) and Bonds often pop up as options when folks think about relatively low-risk investments. But which one suits you better? That's the million-dollar question, or at least a question worth a few hours of your thought.
 
 Today, let’s take a stroll through what **FDs and Bonds** really mean, dissect their pros and cons, and maybe, just maybe, help you pick the one that fits your style and goals.
 
 ---
-![Fixed Deposits (FDs) and Bonds](https://i.ibb.co/m5hW746c/Chat-GPT-Image-Jun-8-2025-07-35-16-PM.png)
+![Fixed Deposits (FDs) and Bonds](https://i.ibb.co/m5hW746c/Chat-GPT-Image-Jun-8-2026-07-35-16-PM.png)
 
 
 ## What Exactly Is a Fixed Deposit (FD)?

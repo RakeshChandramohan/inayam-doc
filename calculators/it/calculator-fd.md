@@ -65,12 +65,4 @@ Sì, molte banche offrono prestiti contro depositi fissi, permettendoti di prend
 
 ### 10. ** Come si calcola l'importo della maturità per un FD? **
 È possibile utilizzare la formula dell'importo della maturità FD fornita sopra per calcolare l'importo della maturità in base al capitale, al tasso di interesse e al possesso.
-
----
-## Disclaimer di contenuti generati ai-#
-
-Questo contenuto era ** generato ai ** utilizzando la tecnologia di elaborazione del linguaggio naturale.Mentre sono stati fatti sforzi per garantire l'accuratezza e la rilevanza delle informazioni, potrebbe non essere perfetto.Gli utenti sono incoraggiati a verificare le informazioni in modo indipendente ove applicabile.
-
-** Nota **: il contenuto generato dall'IA deve essere utilizzato come strumento di supporto, non un sostituto per una consulenza professionale.
-
-** Nota **: Attualmente, il sito è in fase di sviluppo e sarà convalidato e aggiornato presto (27-sep-2024).
+ 

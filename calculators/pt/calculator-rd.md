@@ -65,12 +65,4 @@ Os RDs oferecem taxas de juros mais altas em comparação com contas regulares d
 
 #### 10. ** Como calcular a quantidade de vencimento para um rd? **
 Você pode usar a fórmula do valor da maturidade RD fornecida acima para calcular o valor da maturidade com base no seu depósito mensal, taxa de juros e posse.
-
----
-Isenção de conteúdo da AI-Generated
-
-Esse conteúdo foi gerado ** ** usando a tecnologia de processamento de linguagem natural.Embora tenham sido feitos esforços para garantir a precisão e a relevância das informações, elas podem não ser perfeitas.Os usuários são incentivados a verificar as informações de forma independente, quando aplicável.
-
-** Nota **: O conteúdo gerado pela AI deve ser usado como uma ferramenta de suporte, não um substituto para conselhos profissionais.
-
-** Nota **: Curre NTILY, o site está em desenvolvimento e será validado e atualizado em breve (27-Sep-2024).
+ 

@@ -11,7 +11,7 @@ Um den Unterschied zwischen zwei Daten zu bestimmen, ist die verwendete Formel:
 Mit dieser Formel können Sie die Gesamtzahl der Tage, Monate oder Jahre finden, die die beiden Daten trennen.
 
 ### Beispielberechnung
-Wenn Sie beispielsweise die Differenz zwischen dem 1. Januar 2023 und dem 1. Januar 2024 berechnen möchten, würden Sie diese Daten in den Datumsunterschiedsrechner eingeben.Das Tool gibt ein Ergebnis von 1 Jahr (oder 365 Tagen) zurück und bietet Ihnen ein klares Verständnis des Zeitintervalls.
+Wenn Sie beispielsweise die Differenz zwischen dem 1. Januar 2023 und dem 1. Januar 2026 berechnen möchten, würden Sie diese Daten in den Datumsunterschiedsrechner eingeben.Das Tool gibt ein Ergebnis von 1 Jahr (oder 365 Tagen) zurück und bietet Ihnen ein klares Verständnis des Zeitintervalls.
 
 ### Verwendung der Formel
 Die Formel ist vielseitig und kann in verschiedenen Szenarien angewendet werden, wie z. B.:

@@ -7,8 +7,8 @@ La calculadora de fecha y hora de hoy es una herramienta en línea fácil de usa
 Si bien no hay una fórmula en el sentido tradicional para calcular la fecha y hora actuales, la herramienta utiliza el reloj del sistema de su dispositivo para recuperar y mostrar la información más precisa disponible.
 
 ### Cálculo de ejemplo
-Por ejemplo, si accede a la herramienta a las 3:45 p.m. del 15 de marzo de 2024, se mostrará la calculadora de fecha y hora de hoy:
-- Fecha actual: 15 de marzo de 2024
+Por ejemplo, si accede a la herramienta a las 3:45 p.m. del 15 de marzo de 2026, se mostrará la calculadora de fecha y hora de hoy:
+- Fecha actual: 15 de marzo de 2026
 - Hora actual: 3:45 pm
 
 ### Uso de la fórmula

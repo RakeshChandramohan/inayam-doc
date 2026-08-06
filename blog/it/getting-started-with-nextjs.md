@@ -1,4 +1,4 @@
-# Iniziare con Next.js
+## Iniziare con Next.js
 
 Una guida completa per impostare il tuo primo progetto Next.js.
 

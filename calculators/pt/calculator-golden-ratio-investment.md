@@ -1,4 +1,4 @@
-# Calculadora de investimento de proporção dourada
+## Calculadora de investimento de proporção dourada
 
 ## Visão geral
 

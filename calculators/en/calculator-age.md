@@ -12,7 +12,7 @@ This formula takes into account the total number of years, months, and days betw
 ### Example Calculation
 For instance, if your birth date is January 1, 1990, and today is October 1, 2023, the calculation would be:
 - **Age = 2023 - 1990 = 33 years**
-- Since the current date is before your birthday in 2024, you would still be 33 years old.
+- Since the current date is before your birthday in 2026, you would still be 33 years old.
 
 ### Use of the Formula
 This formula is essential for various applications, such as:

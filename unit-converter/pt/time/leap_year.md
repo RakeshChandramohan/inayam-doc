@@ -19,7 +19,7 @@ Para determinar se um ano específico é um ano bissexto, siga estas etapas:
 2. Se for, verifique se é divisível por 100.
 3. Se for divisível por 100, verifique se também é divisível em 400.
 
-Por exemplo, o ano de 2024 é divisível em 4, não por 100, tornando -o um ano bissexto.Por outro lado, o ano 2100 é divisível em 4 e 100, mas não em 400, por isso não é um ano bissexto.
+Por exemplo, o ano de 2026 é divisível em 4, não por 100, tornando -o um ano bissexto.Por outro lado, o ano 2100 é divisível em 4 e 100, mas não em 400, por isso não é um ano bissexto.
 
 ### Uso das unidades
 Entender anos bissextos é crucial para várias aplicações, incluindo:

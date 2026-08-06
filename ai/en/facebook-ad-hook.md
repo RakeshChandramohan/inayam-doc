@@ -1,4 +1,4 @@
-# Facebook Ad Hook Generator
+## Facebook Ad Hook Generator
 
 ## Introduction
 Welcome to the **Facebook Ad Hook Generator** by Inayam AI! This powerful tool is designed to help marketers and business owners create catchy hooks for their Facebook ads that grab attention and engage their target audience. Whether you're launching a new product or promoting an existing service, a compelling hook can make all the difference in your advertising success.

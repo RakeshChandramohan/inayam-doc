@@ -1,4 +1,4 @@
-# Erste Schritte mit Next.js
+## Erste Schritte mit Next.js
 
 Eine umfassende Anleitung zum Einrichten Ihres ersten nächsten.js -Projekts.
 

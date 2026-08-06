@@ -101,12 +101,4 @@ Para comparar investimentos diferentes, calcule o CAGR para cada investimento no
 
 #### 10. ** O que um CAGR alto indica? **
 Um CAGR alto indica que um investimento ou negócio cresceu rapidamente durante o período analisado.No entanto, os investidores também devem considerar fatores de risco e condições de mercado.
-
----
-Isenção de conteúdo da AI-Generated
-
-Esse conteúdo foi gerado ** ** usando a tecnologia de processamento de linguagem natural.Embora tenham sido feitos esforços para garantir a precisão e a relevância das informações, elas podem não ser perfeitas.Os usuários são incentivados a verificar as informações de forma independente, quando aplicável.
-
-** Nota **: O conteúdo gerado pela AI deve ser usado como uma ferramenta de suporte, não um substituto para conselhos profissionais.
-
-** NOTA **: 04-OCT-2024: Atualmente, o site está em desenvolvimento e será validado e atualizado em breve
+ 

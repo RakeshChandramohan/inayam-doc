@@ -12,7 +12,7 @@ Diese Formel berücksichtigt die Gesamtzahl der Jahre, Monate und Tage zwischen 
 ### Beispielberechnung
 Wenn Ihr Geburtsdatum beispielsweise 1. Januar 1990 und heute 1. Oktober 2023 ist, wäre die Berechnung:
 - ** Alter = 2023 - 1990 = 33 Jahre **
-- Da das aktuelle Datum vor Ihrem Geburtstag im Jahr 2024 liegt, wären Sie immer noch 33 Jahre alt.
+- Da das aktuelle Datum vor Ihrem Geburtstag im Jahr 2026 liegt, wären Sie immer noch 33 Jahre alt.
 
 ### Verwendung der Formel
 Diese Formel ist für verschiedene Anwendungen unerlässlich, beispielsweise:

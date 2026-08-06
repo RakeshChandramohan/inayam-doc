@@ -7,7 +7,7 @@ The Today Date Calculator is a user-friendly online tool designed to provide you
 While there is no complex formula to calculate today's date, the tool utilizes the system's internal clock to retrieve the current date. This ensures that you receive accurate information every time you use it.
 
 ### Example Calculation
-For instance, if today is March 15, 2024, simply accessing the Today Date Calculator will display this date instantly. There’s no need for manual calculations or adjustments.
+For instance, if today is March 15, 2026, simply accessing the Today Date Calculator will display this date instantly. There’s no need for manual calculations or adjustments.
 
 ### Use of the Formula
 The Today Date Calculator operates seamlessly in the background, fetching the date from your device's system settings. This means you can rely on it for accurate and up-to-date information without any hassle.

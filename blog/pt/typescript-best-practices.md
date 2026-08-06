@@ -1,4 +1,4 @@
-# Práticas recomendadas de texto datilografado em 2025
+## Práticas recomendadas de texto datilografado em 2026
 
 Aprenda os mais recentes padrões e práticas do TypeScript para escrever código mais limpo.
 

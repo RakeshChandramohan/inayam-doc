@@ -1,4 +1,4 @@
-# Best practice dattiloscritto nel 2025
+## Best practice dattiloscritto nel 2026
 
 Impara i più recenti modelli e pratiche dattiloscritti per scrivere codice più pulito.
 

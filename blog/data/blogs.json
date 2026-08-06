@@ -84,8 +84,8 @@
     "description": "Explore the key differences between Fixed Deposits and Bonds, and learn how to choose the right one based on your financial goals.",
     "url": "fd-vs-bond-guide",
     "isActive": true,
-    "createdDate": "2025-06-08T10:00:00Z",
-    "modifiedDate": "2025-06-08T10:00:00Z",
+    "createdDate": "2026-06-08T10:00:00Z",
+    "modifiedDate": "2026-06-08T10:00:00Z",
     "category": "finance",
     "subCategory": "investing",
     "labels": [
@@ -99,15 +99,15 @@
     "dislikes": 0,
     "author": "AadhiMahi",
     "readTime": "10 min",
-    "thumbnail": "https://i.ibb.co/gZtKCJzR/Chat-GPT-Image-Jun-8-2025-07-35-16-PM.png"
+    "thumbnail": "https://i.ibb.co/gZtKCJzR/Chat-GPT-Image-Jun-8-2026-07-35-16-PM.png"
 },{
     "id": "itr-filing-due-dates-2024-25",
-    "title": "ITR Filing Due Dates for Financial Year 2024-2025 (Assessment Year 2025-2026)",
+    "title": "ITR Filing Due Dates for Financial Year 2024-2026 (Assessment Year 2026-2026)",
     "description": "A clear and concise guide to Income Tax Return filing due dates, penalties for late filing, and tips to stay compliant for FY 2024-25.",
     "url": "itr-filing-due-dates-2024-25",
     "isActive": true,
-    "createdDate": "2025-06-08T12:00:00Z",
-    "modifiedDate": "2025-06-08T12:00:00Z",
+    "createdDate": "2026-06-08T12:00:00Z",
+    "modifiedDate": "2026-06-08T12:00:00Z",
     "category": "finance",
     "subCategory": "taxation",
     "labels": [
@@ -132,8 +132,8 @@
         "description": "A comprehensive guide to setting up your first Next.js project",
         "url": "getting-started-with-nextjs",
         "isActive": true,
-        "createdDate": "2025-01-15T10:30:00Z",
-        "modifiedDate": "2025-02-10T14:22:00Z",
+        "createdDate": "2026-01-15T10:30:00Z",
+        "modifiedDate": "2026-02-10T14:22:00Z",
         "category": "technology",
         "subCategory": "web-development",
         "labels": [
@@ -149,12 +149,12 @@
     },
     {
         "id": "typescript-best-practices",
-        "title": "TypeScript Best Practices in 2025",
+        "title": "TypeScript Best Practices in 2026",
         "description": "Learn the latest TypeScript patterns and practices to write cleaner code",
         "url": "typescript-best-practices",
         "isActive": true,
-        "createdDate": "2025-02-01T09:15:00Z",
-        "modifiedDate": "2025-02-05T11:30:00Z",
+        "createdDate": "2026-02-01T09:15:00Z",
+        "modifiedDate": "2026-02-05T11:30:00Z",
         "category": "technology",
         "subCategory": "web-development",
         "labels": [
@@ -173,8 +173,8 @@
         "description": "A detailed analysis of how BYD has overtaken Tesla as the world's leading EV seller, exploring the rise of BYD, Tesla's challenges, and the future of electric mobility.",
         "url": "byd-overtakes-tesla",
         "isActive": true,
-        "createdDate": "2025-03-30T10:30:00Z",
-        "modifiedDate": "2025-03-30T14:22:00Z",
+        "createdDate": "2026-03-30T10:30:00Z",
+        "modifiedDate": "2026-03-30T14:22:00Z",
         "category": "automotive",
         "subCategory": "electric-vehicles",
         "labels": [
@@ -198,8 +198,8 @@
         "description": "Explore the details of Trump's new Reciprocal Tax and its far-reaching effects on global trade, with a focus on India’s economy, key sectors, and trade dynamics. How will this bold move reshape international relations?",
         "url": "trump-reciprocal-tax-india",
         "isActive": true,
-        "createdDate": "2025-04-01T08:00:00Z",
-        "modifiedDate": "2025-04-01T08:00:00Z",
+        "createdDate": "2026-04-01T08:00:00Z",
+        "modifiedDate": "2026-04-01T08:00:00Z",
         "category": "news",
         "subCategory": "political-news",
         "labels": [
@@ -212,7 +212,7 @@
         "dislikes": 0,
         "author": "Inayam",
         "readTime": "5 min",
-        "thumbnail":"https://i.ibb.co/ZzpkvKP2/Generated-Image-June-29-2025-8-44-PM.jpg"
+        "thumbnail":"https://i.ibb.co/ZzpkvKP2/Generated-Image-June-29-2026-8-44-PM.jpg"
     }
     
 

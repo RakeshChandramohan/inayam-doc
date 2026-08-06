@@ -1,6 +1,6 @@
 ## Trump Reciprocal Tax and Its Impact on Global Trade: Focus on India
 
-On April 2, 2025, former U.S. President Donald Trump introduced a reciprocal tariff policy aimed at addressing perceived unfair trade practices by imposing tariffs on imports equivalent to those that American exports face in foreign markets. While the policy is viewed as a strategic move to level the playing field, it raises significant concerns, especially for countries like India that are heavily dependent on exports to the U.S.
+On April 2, 2026, former U.S. President Donald Trump introduced a reciprocal tariff policy aimed at addressing perceived unfair trade practices by imposing tariffs on imports equivalent to those that American exports face in foreign markets. While the policy is viewed as a strategic move to level the playing field, it raises significant concerns, especially for countries like India that are heavily dependent on exports to the U.S.
 
 ### **Trump's 26% Reciprocal Tariff on India**
 

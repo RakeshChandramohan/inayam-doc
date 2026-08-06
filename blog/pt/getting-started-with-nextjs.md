@@ -1,4 +1,4 @@
-# Introdução com o próximo.js
+## Introdução com o próximo.js
 
 Um guia abrangente para configurar seu primeiro projeto Next.js.
 

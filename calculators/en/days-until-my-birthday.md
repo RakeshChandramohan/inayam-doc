@@ -9,13 +9,13 @@ To calculate the days remaining until your birthday, the formula is straightforw
 **Days Until Birthday = Birthday Date - Current Date**
 
 ### Example Calculation
-For instance, if your birthday is on July 15, 2024, and today is March 1, 2024, the calculation would be:
+For instance, if your birthday is on July 15, 2026, and today is March 1, 2026, the calculation would be:
 
-- **Birthday Date**: July 15, 2024
-- **Current Date**: March 1, 2024
+- **Birthday Date**: July 15, 2026
+- **Current Date**: March 1, 2026
 
 Using the formula:
-- Days Until Birthday = July 15, 2024 - March 1, 2024 = 136 days
+- Days Until Birthday = July 15, 2026 - March 1, 2026 = 136 days
 
 ### Use of the Formula
 This formula allows you to easily track how many days are left until your birthday. By inputting your birthday date and the current date into our Birthday Countdown Calculator, you can instantly see the countdown, making it a fun way to build anticipation for your special day.
@@ -41,7 +41,7 @@ To use the Birthday Countdown Calculator, follow these simple steps:
    - The calculator determines the number of days until your birthday by subtracting the current date from your birthday date.
 
 2. **Can I use this tool for birthdays in different years?**
-   - Yes, you can calculate the countdown for any upcoming birthday, whether it's in 2024, 2025, or beyond.
+   - Yes, you can calculate the countdown for any upcoming birthday, whether it's in 2026, 2026, or beyond.
 
 3. **What if I enter the wrong birthday date?**
    - You can easily re-enter your birthday date and recalculate the countdown.

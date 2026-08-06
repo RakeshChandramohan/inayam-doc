@@ -9,13 +9,13 @@ Para calcular os dias restantes até o seu aniversário, a fórmula é direta:
 ** dias até aniversário = data de aniversário - data atual **
 
 ### Exemplo de cálculo
-Por exemplo, se seu aniversário for em 15 de julho de 2024, e hoje é 1 de março de 2024, o cálculo seria:
+Por exemplo, se seu aniversário for em 15 de julho de 2026, e hoje é 1 de março de 2026, o cálculo seria:
 
-- ** Data de aniversário **: 15 de julho de 2024
-- ** Data atual **: 1 de março de 2024
+- ** Data de aniversário **: 15 de julho de 2026
+- ** Data atual **: 1 de março de 2026
 
 Usando a fórmula:
-- dias até aniversário = 15 de julho de 2024 - 1 de março de 2024 = 136 dias
+- dias até aniversário = 15 de julho de 2026 - 1 de março de 2026 = 136 dias
 
 ### Uso da fórmula
 Esta fórmula permite rastrear facilmente quantos dias restam até o seu aniversário.Ao inserir sua data de aniversário e a data atual em nossa calculadora de contagem regressiva de aniversário, você pode ver instantaneamente a contagem regressiva, tornando -se uma maneira divertida de criar antecipação para o seu dia especial.
@@ -41,7 +41,7 @@ Para usar a calculadora de contagem regressiva de aniversário, siga estas etapa
 - A calculadora determina o número de dias até o seu aniversário subtraindo a data atual da data de aniversário.
 
 2. ** Posso usar esta ferramenta para aniversários em anos diferentes? **
-- Sim, você pode calcular a contagem regressiva para qualquer aniversário, seja em 2024, 2025 ou além.
+- Sim, você pode calcular a contagem regressiva para qualquer aniversário, seja em 2026, 2026 ou além.
 
 3. ** E se eu entrar na data de aniversário errada? **
 - Você pode facilmente entrar novamente na sua data de aniversário e recalcular a contagem regressiva.

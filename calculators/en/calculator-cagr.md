@@ -103,10 +103,7 @@ To compare different investments, calculate the CAGR for each investment over th
 A high CAGR indicates that an investment or business has grown quickly over the period analyzed. However, investors should also consider risk factors and market conditions.
 
 ---
-### AI-Generated Content Disclaimer
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
 
-**Note**:  04-Oct-2024 : Currently, the site is under development and will be validated and updated soon
+

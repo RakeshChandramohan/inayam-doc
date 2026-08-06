@@ -65,12 +65,4 @@ Oui, de nombreuses banques offrent des prêts contre les dépôts fixes, vous pe
 
 ### 10. ** Comment calculer le montant de la maturité pour un FD? **
 Vous pouvez utiliser la formule du montant de la maturité FD fournie ci-dessus pour calculer le montant de la maturité en fonction du principal, du taux d'intérêt et du mandat.
-
----
-## Avertissement de contenu généré par AI
-
-Ce contenu était ** généré par AI-** en utilisant la technologie de traitement du langage naturel.Bien que des efforts aient été faits pour assurer la précision et la pertinence des informations, elles peuvent ne pas être parfaites.Les utilisateurs sont encouragés à vérifier les informations indépendamment le cas échéant.
-
-** Remarque **: Le contenu généré par AI doit être utilisé comme un outil de soutien, et non un substitut aux conseils professionnels.
-
-** Remarque **: Actuellement, le site est en cours de développement et sera validé et mis à jour bientôt (27-Sep-2024).
+ 

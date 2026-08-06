@@ -65,12 +65,4 @@ Les RDS offrent des taux d'intérêt plus élevés par rapport aux comptes d'ép
 
 #### 10. ** Comment calculer le montant de la maturité pour un RD? **
 Vous pouvez utiliser la formule du montant de la maturité RD fournie ci-dessus pour calculer le montant de l'échéance en fonction de votre dépôt mensuel, du taux d'intérêt et de votre mandat.
-
----
-### Avertissement de contenu généré par AI
-
-Ce contenu était ** généré par AI-** en utilisant la technologie de traitement du langage naturel.Bien que des efforts aient été faits pour assurer la précision et la pertinence des informations, elles peuvent ne pas être parfaites.Les utilisateurs sont encouragés à vérifier les informations indépendamment le cas échéant.
-
-** Remarque **: Le contenu généré par AI doit être utilisé comme un outil de soutien, et non un substitut aux conseils professionnels.
-
-** Remarque **: Curre Ntly, le site est en cours de développement et sera validé et mis à jour bientôt (27-Sep-2024).
+ 

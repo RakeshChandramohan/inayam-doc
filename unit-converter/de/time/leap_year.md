@@ -19,7 +19,7 @@ Um festzustellen, ob ein bestimmtes Jahr ein Schaltjahr ist, befolgen Sie die fo
 2. Wenn dies der Fall ist, prüfen Sie, ob es um 100 teilbar ist.
 3. Wenn es um 100 teilbar ist, prüfen Sie, ob es auch um 400 teilbar ist.
 
-Zum Beispiel ist das Jahr 2024 um 4 teilbar, nicht um 100, was es zu einem Schaltjahr macht.Umgekehrt ist das Jahr 2100 um 4 und 100 teilbar, aber nicht um 400, daher ist es kein Schaltjahr.
+Zum Beispiel ist das Jahr 2026 um 4 teilbar, nicht um 100, was es zu einem Schaltjahr macht.Umgekehrt ist das Jahr 2100 um 4 und 100 teilbar, aber nicht um 400, daher ist es kein Schaltjahr.
 
 ### Verwendung der Einheiten
 Das Verständnis der Sprungjahre ist für verschiedene Anwendungen von entscheidender Bedeutung, darunter:

@@ -64,12 +64,4 @@ Sim, os investidores podem investir em vários SIPs em diferentes esquemas de fu
 
 #### 10. ** Existem cobranças associadas a SIPS? **
 Os investimentos do SIP normalmente envolvem índices de despesas e cargas de saída, que variam pelo esquema de fundos mútuos.Sempre verifique os termos antes de investir.
-
----
-Isenção de conteúdo da AI-Generated
-
-Esse conteúdo foi gerado ** ** usando a tecnologia de processamento de linguagem natural.Embora tenham sido feitos esforços para garantir a precisão e a relevância das informações, elas podem não ser perfeitas.Os usuários são incentivados a verificar as informações de forma independente, quando aplicável.
-
-** Nota **: O conteúdo gerado pela AI deve ser usado como uma ferramenta de suporte, não um substituto para conselhos profissionais.
-
-** NOTA **: Atualmente, o site está em desenvolvimento e será validado e atualizado em breve (27-Sep-2024).
+ 

@@ -65,12 +65,4 @@ RDS offre tassi di interesse più elevati rispetto ai conti di risparmio regolar
 
 #### 10. ** Come si calcola l'importo della maturità per un RD? **
 È possibile utilizzare la formula dell'importo della maturità RD fornita sopra per calcolare l'importo della maturità in base al deposito mensile, al tasso di interesse e al possesso.
-
----
-### Disclaimer di contenuti generati con Ai
-
-Questo contenuto era ** generato ai ** utilizzando la tecnologia di elaborazione del linguaggio naturale.Mentre sono stati fatti sforzi per garantire l'accuratezza e la rilevanza delle informazioni, potrebbe non essere perfetto.Gli utenti sono incoraggiati a verificare le informazioni in modo indipendente ove applicabile.
-
-** Nota **: il contenuto generato dall'IA deve essere utilizzato come strumento di supporto, non un sostituto per una consulenza professionale.
-
-** Nota **: Curre Ntly, il sito è in fase di sviluppo e sarà convalidato e aggiornato presto (27-set-2024).
+ 

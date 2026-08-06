@@ -101,12 +101,4 @@ Pour comparer différents investissements, calculez le TCAC pour chaque investis
 
 #### 10. ** Qu'est-ce qu'un TCAC élevé indique? **
 Un TCAC élevé indique qu'un investissement ou une entreprise s'est développé rapidement au cours de la période analysée.Cependant, les investisseurs devraient également considérer les facteurs de risque et les conditions du marché.
-
----
-### Avertissement de contenu généré par AI
-
-Ce contenu était ** généré par AI-** en utilisant la technologie de traitement du langage naturel.Bien que des efforts aient été faits pour assurer la précision et la pertinence des informations, elles peuvent ne pas être parfaites.Les utilisateurs sont encouragés à vérifier les informations indépendamment le cas échéant.
-
-** Remarque **: Le contenu généré par AI doit être utilisé comme un outil de soutien, et non un substitut aux conseils professionnels.
-
-** Remarque **: 04-oct-2024: Actuellement, le site est en cours de développement et sera validé et mis à jour bientôt
+ 

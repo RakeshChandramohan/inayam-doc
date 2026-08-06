@@ -95,12 +95,4 @@ Dans les prêts en utilisant des intérêts simples, si vous remboursez le prêt
 
 #### 10. ** Comment les prêteurs utilisent-ils un intérêt simple pour calculer les EMI? **
 Dans les prêts à intérêt simple, les EMI sont calculés en divisant le total du principal et des intérêts uniformément sur le mandat du prêt.Cela garantit que chaque EMI se compose à la fois d'une partie du principal et de l'intérêt accumulé.
-
----
-### Avertissement de contenu généré par AI
-
-Ce contenu était ** généré par AI-** en utilisant la technologie de traitement du langage naturel.Bien que des efforts aient été faits pour assurer la précision et la pertinence des informations, elles peuvent ne pas être parfaites.Les utilisateurs sont encouragés à vérifier les informations indépendamment le cas échéant.
-
-** Remarque **: Le contenu généré par AI doit être utilisé comme un outil de soutien, et non un substitut aux conseils professionnels.
-
-** Remarque **: 04-oct-2024: Actuellement, le site est en cours de développement et sera validé et mis à jour bientôt
+ 

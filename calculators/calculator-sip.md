@@ -66,10 +66,4 @@ Yes, investors can invest in multiple SIPs across different mutual fund schemes 
 SIP investments typically involve expense ratios and exit loads, which vary by mutual fund scheme. Always check the terms before investing.
 
 ---
-### AI-Generated Content Disclaimer
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
-
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
-
-**Note**: Currently, the site is under development and will be validated and updated soon (27-Sep-2024).

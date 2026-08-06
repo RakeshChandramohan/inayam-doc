@@ -64,12 +64,4 @@ Sí, los inversores pueden invertir en múltiples SIP en diferentes esquemas de 
 
 #### 10. ** ¿Hay algún cargo asociado con SIPS? **
 Las inversiones SIP generalmente implican relaciones de gasto y cargas de salida, que varían según el esquema de fondos mutuos.Siempre verifique los términos antes de invertir.
-
----
-### Descargo de responsabilidad de contenido generado por AI
-
-Este contenido fue ** generado por IA ** utilizando tecnología de procesamiento del lenguaje natural.Si bien se han realizado esfuerzos para garantizar la precisión y relevancia de la información, puede no ser perfecto.Se alienta a los usuarios a verificar la información de forma independiente cuando corresponda.
-
-** Nota **: El contenido generado por IA debe usarse como una herramienta de apoyo, no un sustituto de asesoramiento profesional.
-
-** Nota **: Actualmente, el sitio está en desarrollo y será validado y actualizado pronto (27-SEP-2024).
+ 

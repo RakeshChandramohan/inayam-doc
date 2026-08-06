@@ -95,12 +95,4 @@ En préstamos que usan intereses simples, si reembolsa el préstamo anteriorment
 
 #### 10. ** ¿Cómo usan los prestamistas un interés simple para calcular EMI? **
 En préstamos de intereses simples, las EMI se calculan dividiendo el total del principal y los intereses de manera uniforme durante el tenencia del préstamo.Esto asegura que cada EMI consista tanto en una porción del director como de los intereses acumulados.
-
----
-### Descargo de responsabilidad de contenido generado por AI
-
-Este contenido fue ** generado por IA ** utilizando tecnología de procesamiento del lenguaje natural.Si bien se han realizado esfuerzos para garantizar la precisión y relevancia de la información, puede no ser perfecto.Se alienta a los usuarios a verificar la información de forma independiente cuando corresponda.
-
-** Nota **: El contenido generado por IA debe usarse como una herramienta de apoyo, no un sustituto de asesoramiento profesional.
-
-** Nota **: 04-OCT-2024: Actualmente, el sitio está en desarrollo y será validado y actualizado pronto
+ 

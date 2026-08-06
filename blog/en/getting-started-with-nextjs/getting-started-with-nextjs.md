@@ -1,4 +1,4 @@
-# Getting Started with Next.js
+## Getting Started with Next.js
 
 A comprehensive guide to setting up your first Next.js project.
 

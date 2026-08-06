@@ -1,4 +1,4 @@
-# Calculateur d'investissement en ratio d'or
+## Calculateur d'investissement en ratio d'or
 
 ## Aperçu
 

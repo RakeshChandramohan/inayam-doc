@@ -115,11 +115,4 @@ Sí, puede haber implicaciones fiscales dependiendo de las leyes fiscales de su 
 
 ### Conclusión
 La calculadora promedio de inversión hacia abajo es una herramienta valiosa para los inversores que buscan optimizar sus compras de acciones durante las recesiones del mercado.Al comprender la mecánica de promediar y usar la calculadora de manera efectiva, los inversores pueden tomar decisiones informadas para mejorar sus posiciones de inversión.Recuerde siempre realizar una investigación exhaustiva y considerar el contexto más amplio del mercado antes de realizar inversiones adicionales.
-
----
-#### Descargo de responsabilidad de contenido generado por AI
-Este contenido fue ** generado por IA ** utilizando tecnología de procesamiento del lenguaje natural.Si bien se han realizado esfuerzos para garantizar la precisión y relevancia de la información, puede no ser perfecto.Se alienta a los usuarios a verificar la información de forma independiente cuando corresponda.
-
-** Nota **: El contenido generado por IA debe usarse como una herramienta de apoyo, no un sustituto de asesoramiento profesional.
-
-** Nota **: Actualmente, el sitio está en desarrollo y será validado y actualizado pronto (27-SEP-2024).
+ 

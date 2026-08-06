@@ -12,7 +12,7 @@ Esta fórmula tiene en cuenta el número total de años, meses y días entre la 
 ### Cálculo de ejemplo
 Por ejemplo, si su fecha de nacimiento es el 1 de enero de 1990, y hoy es el 1 de octubre de 2023, el cálculo sería:
 - ** edad = 2023 - 1990 = 33 años **
-- Dado que la fecha actual es antes de su cumpleaños en 2024, aún tendrá 33 años.
+- Dado que la fecha actual es antes de su cumpleaños en 2026, aún tendrá 33 años.
 
 ### Uso de la fórmula
 Esta fórmula es esencial para diversas aplicaciones, como:

@@ -73,4 +73,4 @@ Dieser Inhalt wurde mit der Technologie für natürliche Sprachverarbeitung gene
 
 ** HINWEIS **: AI-generierte Inhalte sollten als unterstützendes Instrument verwendet werden, nicht als Ersatz für professionelle Beratung.
 
-** Hinweis **: Derzeit ist die Website in der Entwicklung und wird in Kürze (27. September 2024) validiert und aktualisiert.
+** Hinweis **: Derzeit ist die Website in der Entwicklung und wird in Kürze (27. September 2026) validiert und aktualisiert.
